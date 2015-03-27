@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Custom Styles
+Plugin Name: WP Editor Style
 Plugin URI: http://facebook.com/badar.rashdi
 Description: Add custom styles in your posts and pages content using TinyMCE WYSIWYG editor. The plugin adds a Styles dropdown menu in the visual post editor.
 */
